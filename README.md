@@ -7,7 +7,7 @@ npm start
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 
-This is my first project which I've written with Scrimba. Learn more:
+### This is my first project, which I've written with Scrimba. Learn more:
 
 ## About Scrimba
 
